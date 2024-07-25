@@ -1,0 +1,7 @@
+version: 1.0.0
+files:
+  - url: https://gitlab.com/Muhib-Mirza/auto-update-app.git/releases/download/v1.1.0/electron-app-1.0.0.zip
+    sha512: WwIFaLjnoTAC0LaNgZvll9GczKEyqLNIAiNqMkpHkcK/a8Vomx7iF8ejUUjUrqKkuF15qs4dyJ1s5gJpBegebg==
+    size: 90402597
+path: electron-app-1.0.0.zip
+releaseDate: 2024-07-25T09:52:16.078Z
