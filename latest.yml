@@ -1,0 +1,7 @@
+version: 1.0.0
+files:
+  - url: Nimbus-Setup-1.0.0.exe
+    sha512: nGHtX3Ic1+xABHEchIePC9HHUHqsn9UJ6i4MLxJqPsKvOas3xPb1Bue2ni6lW3XRvlwjcWSEhG8suGLlxkBv7w==
+    size: 86302573
+path: Nimbus-Setup-1.0.0.exe
+releaseDate: 2024-08-12T12:21:57.217Z
